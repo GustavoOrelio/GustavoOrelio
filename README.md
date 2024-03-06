@@ -1,7 +1,6 @@
 # Gustavo Orelio
 
-- 🔭 Atualmente trabalhando com back-end
-- 🌱 Estudante de Engenharia de Software
+- 🌱 Engenheiro de Software
 
 <div align="center">
   <a href="https://github.com/GustavoOrelio">
