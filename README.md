@@ -3,9 +3,9 @@
 - 🌱 Engenheiro de Software
 
 <div>
-  <a href="https://beacons.ai/GustavoOrelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=16&theme=github_dark"/>
+  <a href="https://github.com/GustavoOrelio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Gustavo Orelio's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=16&theme=github_dark" alt="Top Languages"/>
   </a>
 </div>
 
