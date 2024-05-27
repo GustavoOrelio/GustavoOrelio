@@ -1,16 +1,13 @@
-# Gustavo Orelio
+## Gustavo Orelio
 
 - 🌱 Engenheiro de Software
 
-<div align="center">
-  <a href="https://github.com/GustavoOrelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Gustavo Orelio's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>
+<div>
+  <a href="https://beacons.ai/GustavoOrelio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=16&theme=github_dark"/>
   </a>
 </div>
-
-
-# Programming Languages:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
