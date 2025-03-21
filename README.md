@@ -54,4 +54,6 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/GustavoOrelio/GustavoOrelio/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/GustavoOrelio/GustavoOrelio/blob/output/ocean.gif" alt="snake animation"/>
+</div>
