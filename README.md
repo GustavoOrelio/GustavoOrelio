@@ -51,9 +51,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-or%C3%A9lio-211285182/)
 
 </div>
-
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://github.com/GustavoOrelio/GustavoOrelio/blob/output/ocean.gif" alt="snake animation"/>
-</div>
