@@ -50,4 +50,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oreliogustavo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-or%C3%A9lio-211285182/)
 
+![Contribuições](https://github.com/GustavoOrelio/GustavoOrelio/blob/output/github-contribution-grid-snake.gif?raw=true)
+
 </div>
