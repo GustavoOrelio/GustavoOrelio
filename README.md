@@ -1,6 +1,10 @@
 # 👨‍💻 Gustavo Orelio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/GustavoOrelio">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 Sobre mim
 
