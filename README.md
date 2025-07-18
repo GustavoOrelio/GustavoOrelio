@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoOrelio">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gustavo Orelio's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo Orelio"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
