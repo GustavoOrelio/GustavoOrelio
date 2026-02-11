@@ -12,8 +12,8 @@ Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em reso
 
 - 🔭 **Foco Atual:** Desenvolvimento de módulos para **Odoo** e aplicações Mobile com **Flutter**.
 - 💼 **Experiência Real:** Tenho forte atuação em **integrações bancárias** (CNAB, APIs de Pagamento) e sistemas de gestão (ERPs).
-- 📱 **Meus Apps:** Confira meu portfólio e apps publicados em **[relio.com.br](https://relio.com.br)**.
-- 🌱 **Interesses:** Arquitetura de Software, Soluções para o Agronegócio (AgroTech) e Empreendedorismo.
+- 💡 **Empreendedorismo:** Fundador da **[Relio](https://relio.com.br)**, onde publico meus apps e soluções SaaS.
+- 🌱 **Interesses:** Arquitetura de Software, Soluções para o Agronegócio (AgroTech) e Finanças.
 - ⚡ **Curiosidade:** Nas horas vagas, sou entusiasta de hardware, 3D printing e gosto de estar no sítio (o que reforça minha paixão por tecnologia aplicada ao campo 🚜).
 
 ---
@@ -65,7 +65,8 @@ Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em reso
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-relio.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://relio.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Online-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavoorelio.vercel.app)
+[![Relio](https://img.shields.io/badge/Minha_Empresa-Relio.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://relio.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-or%C3%A9lio-211285182/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoorelio/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oreliogustavo@gmail.com)
