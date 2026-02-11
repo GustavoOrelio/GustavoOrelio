@@ -53,8 +53,8 @@ Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em reso
 
 <div align="center">
   <a href="https://github.com/GustavoOrelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
