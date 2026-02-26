@@ -25,9 +25,9 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "contato@gustavoorelio.com"
+  linkedin: "gustavo-orelio"
+  website: "https://gustavoorelio.com"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -68,15 +68,15 @@ projects:
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
 theme:
-  void: "#080c14"              # Darkest background
-  nebula: "#0f1623"            # Card backgrounds
-  star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
-  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
-  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
-  text_bright: "#f1f5f9"       # Primary text
-  text_dim: "#94a3b8"          # Secondary text
-  text_faint: "#64748b"        # Muted text, labels
+  void: "#0a0f1d"              # Deep midnight blue
+  nebula: "#161c2d"            # Dark sapphire cards
+  star_dust: "#232b3e"         # Outer space borders
+  synapse_cyan: "#00ffcc"      # Aurora Cyan
+  dendrite_violet: "#bd93f9"   # Cyber Purple
+  axon_amber: "#ff79c6"        # Electric Pink
+  text_bright: "#e2e8f0"       # Cold white
+  text_dim: "#94a3b8"          # Metallic blue-gray
+  text_faint: "#475569"        # Deep slate labels
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
