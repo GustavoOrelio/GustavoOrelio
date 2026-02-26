@@ -49,13 +49,31 @@ Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em reso
 
 ---
 
-## 📊 Analytics
+## 📊 Analytics & Impact
 
 <div align="center">
-  <a href="https://github.com/GustavoOrelio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoOrelio&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoOrelio&theme=tokyonight" alt="Profile Details" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOrelio&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
