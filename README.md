@@ -23,10 +23,10 @@ Com 4 anos de jornada, transformo desafios de negócio em soluções tecnológic
   <table width="100%">
     <tr>
       <td width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=transparent&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&hide_border=true&count_private=true" alt="Stats" width="100%"/>
+        <img src="https://github-readme-stats-eight.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=transparent&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&hide_border=true&count_private=true" alt="Stats" width="100%"/>
       </td>
       <td width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=transparent&title_color=38bdf8&text_color=f8fafc&hide_border=true" alt="Langs" width="100%"/>
+        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=transparent&title_color=38bdf8&text_color=f8fafc&hide_border=true" alt="Langs" width="100%"/>
       </td>
       <td width="33%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoOrelio&theme=transparent&stroke=38bdf8&fire=38bdf8&ring=38bdf8&currStreakLabel=f8fafc&hide_border=true" alt="Streak" width="100%"/>
