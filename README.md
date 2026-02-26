@@ -1,9 +1,3 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/GustavoOrelio/GustavoOrelio).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -28,24 +22,28 @@
 
 <br/>
 
-<details>
-<summary><strong>More about me</strong></summary>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GustavoOrelio/GustavoOrelio/output/github-contribution-grid-snake-dark.gif" alt="Snake Animation" width="850"/>
+</div>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+<details>
+<summary><strong>🚀 Sobre Mim</strong></summary>
 
-**Currently at** Stellar Labs — San Francisco, CA
+<br/>
+
+Construindo o futuro com código limpo e arquiteturas escaláveis.
+Apaixonado por ecossistemas open-source e design centrado no usuário.
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:contato@gustavoorelio.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/gustavo-orelio/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
