@@ -1,0 +1,39 @@
+name: Generate Profile SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # A cada 12 horas
+  push:
+    branches: [ main ]
+    paths:
+      - 'config.yml'
+      - 'generator/**'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate SVGs
+        run: python -m generator.main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/generated/*.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile SVGs [skip ci]"
+          git push
