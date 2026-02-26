@@ -2,55 +2,94 @@
 
 <p align="center">
   <a href="https://github.com/GustavoOrelio">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Specialist;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D4&width=435&lines=Engenheiro+de+Software;Java+%7C+Spring+%7C+Flutter;Soluções+em+Fintech+%26+Agro" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  Transformando código em soluções de alto impacto. Focado em escalabilidade, performance e Clean Code.
-</p>
+## 🚀 Sobre mim
+
+Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em resolver problemas complexos com código limpo e escalável. Minha especialidade é o ecossistema **Java** para backend robusto e **Flutter** para experiências mobile fluidas.
+
+- 🔭 **Foco Atual:** Desenvolvimento de módulos para **Odoo** e aplicações Mobile com **Flutter**.
+- 💼 **Experiência Real:** Tenho forte atuação em **integrações bancárias** (CNAB, APIs de Pagamento) e sistemas de gestão (ERPs).
+- 🌱 **Interesses:** Arquitetura de Software, Soluções para o Agronegócio (AgroTech) e Finanças.
+- ⚡ **Curiosidade:** Nas horas vagas, sou entusiasta de hardware, 3D printing e gosto de estar no sítio (o que reforça minha paixão por tecnologia aplicada ao campo 🚜).
 
 ---
 
-## 📊 Performance & Insights
+## 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/GustavoOrelio?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America/Sao_Paulo&config.display=regular&theme=dracula&config.transparent=true&hide_border=true" alt="Metrics" width="100%" />
-</div>
 
-<br/>
+### 💻 Core Stack (Dia a dia)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOrelio&theme=github-compact&bg_color=00000000&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true&hide_title=true" alt="Activity" width="100%" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+### 🌐 Frontend & Web
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Outros
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </div>
 
 ---
 
-## 🛠️ Tech Ecosystem
+## 📊 Analytics & Impact
 
 <div align="center">
-  <code><img height="35" src="https://simpleicons.org/icons/openjdk.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/spring.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/flutter.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/dart.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/typescript.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/postgresql.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/docker.svg" /></code>
-  <code><img height="35" src="https://simpleicons.org/icons/odoo.svg" /></code>
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoOrelio&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOrelio&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoOrelio&theme=dracula&hide_border=true" alt="Streak Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoOrelio&theme=dracula" alt="Profile Details" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOrelio&theme=github-compact&bg_color=0d1117&color=6272a4&line=6272a4&point=ff79c6&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
 
-## 🤝 Connection
+## 🤝 Vamos Conectar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/gustavo-or%C3%A9lio-211285182/)
-[![Relio](https://img.shields.io/badge/-Relio-000?style=for-the-badge&logo=google-chrome&logoColor=38bdf8)](https://relio.com.br)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:oreliogustavo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavoorelio.vercel.app)
+[![Relio](https://img.shields.io/badge/Apps_Publicados-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://relio.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-or%C3%A9lio-211285182/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoorelio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oreliogustavo@gmail.com)
 
-<br/>
+<br>
 
-![Snake](https://github.com/GustavoOrelio/GustavoOrelio/blob/output/github-contribution-grid-snake-dark.gif?raw=true)
+<!-- ![Snake animation](https://github.com/GustavoOrelio/GustavoOrelio/blob/output/github-contribution-grid-snake.gif?raw=true) -->
 
 </div>
