@@ -8,7 +8,7 @@ Sou um **Engenheiro de Software** com **4 anos de experiência**, focado em reso
 
 - 🔭 **Foco Atual:** Desenvolvimento de módulos para **Odoo** e aplicações Mobile com **Flutter**.
 - 💼 **Experiência Real:** Tenho forte atuação em **integrações bancárias** (CNAB, APIs de Pagamento) e sistemas de gestão (ERPs).
-- 🌱 **Interesses:** Arquitetura de Software, Soluções para o Agronegócio e Finanças.
+- 🌱 **Interesses:** Arquitetura de Software, Soluções para o Agronegócio (AgroTech) e Finanças.
 - ⚡ **Curiosidade:** Entusiasta de hardware, 3D printing e tecnologia aplicada ao campo 🚜.
 
 ---
